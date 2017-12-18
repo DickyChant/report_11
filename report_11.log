@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.15)  15 DEC 2017 22:17
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.15)  18 DEC 2017 17:36
 entering extended mode
 **c:/Users/Dicky/Desktop/report_11/report_11
 (c:/Users/Dicky/Desktop/report_11/report_11.tex
@@ -1004,15 +1004,9 @@ Requested font "[lmromanslant10-regular]:mapping=tex-text" at 10.54pt
 
 
 LaTeX Font Warning: Font shape `EU1/SimSun(0)/m/sl' undefined
-(Font)              using `EU1/SimSun(0)/m/n' instead on input line 92.
+(Font)              using `EU1/SimSun(0)/m/n' instead on input line 76.
 
-[2]
-Overfull \hbox (30.56305pt too wide) detected at line 106
-\OT1/cmr/m/n/10.54 ([])[]\OML/cmm/m/it/10.54 ^^[[] \OT1/cmr/m/n/10.54 = \OML/cm
-m/m/it/10.54 ^^[[]\OT1/cmr/m/n/10.54 ([])[]
- []
-
-[3] [4] [5] (c:\Users\Dicky\Desktop\report_11\report_11.aux)
+[2] [3] [4] [5] (c:\Users\Dicky\Desktop\report_11\report_11.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41pt have occurred.
